@@ -1,2 +1,2 @@
 # UnityAct_2
-Platform Game using UNity and C#
+Platform Game using Unity and C#
